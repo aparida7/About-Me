@@ -1,6 +1,6 @@
-## About Me 🌟
+# About Me 🌟
 
-# Aishwarya Parida ✨
+## Aishwarya Parida ✨
 
 Hello! I'm Aishwarya, a Data Analytics and Data Science Enthusiast. A dynamic and result-oriented professional with a solid background in CRM consulting and systems engineering. My journey has been driven by my dedication to delivering efficient coding solutions and enhancing operational performance through strategic innovation. I thrive in fast-paced environments, as evidenced by my significant contributions to 🏢 Deloitte Digital as a Consultant in the CRM Division and as a Systems Engineer at 🖥️ Tata Consultancy Services, where I improved operational efficiency and user engagement.
 
