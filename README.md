@@ -2,12 +2,13 @@
 
 ## Aishwarya Parida ✨
 
-Hello! I'm Aishwarya, a Data Analytics and Data Science Enthusiast. A dynamic and result-oriented professional with a solid background in CRM consulting and systems engineering. My journey has been driven by my dedication to delivering efficient coding solutions and enhancing operational performance through strategic innovation. I thrive in fast-paced environments, as evidenced by my significant contributions to 🏢 Deloitte Digital as a Consultant in the CRM Division and as a Systems Engineer at 🖥️ Tata Consultancy Services, where I improved operational efficiency and user engagement.
+Hello! I'm Aishwarya, a Data Analytics and Data Science Enthusiast. 
 
-## What Drives Me 🔥
-- **Passion for Analytics**: I possess a robust analytical skill set, with expertise in Python, R, SQL, and machine learning.
-- **Elevating Efficiency**: From launching auction platforms to optimizing banking applications, my focus is on creating value through technology.
-- **Insights Through Data**: Whether it's through A/B testing, NLP, or optimization, I'm all about turning data into actionable insights.
+## Technical Skills 🔥
+- **Programming Languages & Tools:** Python, R, SQL, Power BI, Tableau, TAL, COBOL
+- **Data Analysis:** Statistics, A/B Testing, NLP, Optimization, Machine Learning, Social Media & Marketing Analytics
+- **Project management:** Agile Scrum Methodology, JIRA, Cost and Efficiency Optimization, Zoho One
+
 
 ## Educational Path 🎓
 - **MS in Business Analytics - The University of Texas at Austin** 
