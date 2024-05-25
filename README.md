@@ -5,9 +5,11 @@
 Hello! I'm Aishwarya, a Data Analytics and Data Science Enthusiast. 
 
 ## Technical Skills 🔥
-- **Programming Languages & Tools:** Python, R, SQL, Power BI, Tableau, TAL, COBOL
-- **Data Analysis:** Statistics, A/B Testing, NLP, Optimization, Machine Learning, Social Media & Marketing Analytics
-- **Project management:** Agile Scrum Methodology, JIRA, Cost and Efficiency Optimization, Zoho One
+- **Programming Languages and Data Visualization Tools:** SQL, Python (Pandas, Scikit-learn, Seaborn, Numpy, Plotly), R, Tableau, Power BI(Power Query, DAX, and Power BI Service, ETL)
+- **Machine Learning:** Regression, Classification, Clustering, Decision Trees, Neural Networks, Boosted Trees, Logistic Regression, Time Series Forecasting, NLP, A/B testing, Financial reporting and analysis, Hypothesis Testing
+- **Platforms:** Google Cloud Platform, Snowflake, Dataiku (Artificial Intelligence Software, ML Automation)
+- **Other Skills:** MS Office, Excel, PowerPoint, Teams, Outlook, Project Management, Agile Scrum Methodology, JIRA
+
 
 
 ## Educational Path 🎓
