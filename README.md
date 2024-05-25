@@ -21,8 +21,8 @@ Hello! I'm Aishwarya, a Data Analytics and Data Science Enthusiast.
   - Courses: Statistics, Mathematics, Particle Physics
 
 ## Professional Experience 💼
-- **Deloitte Digital** - Business Analyst, CRM Division, India
-- **Tata Consultancy Services** - Business Analyst, India
+- **Deloitte Digital** - Business Analyst, CRM Division
+- **Tata Consultancy Services** - Business Analyst
 
 ## Let's Connect 🤝
 - [GitHub](https://github.com/aparida7)
